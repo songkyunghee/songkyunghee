@@ -10,7 +10,7 @@
  
 
   <div align="left">
-👋 Hi there! I'm mobile app developer using Android.🚀  
+👋 Hi there! I'm mobile app developer using Android. 
  Sometimes I develop cross-platforms like Flutter, but prefer native. 💖
   </div>
   <div align="left">
