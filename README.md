@@ -1,8 +1,7 @@
-<div align="center">
+<div align="left">
   
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=songkyunghee&show_icons=true&theme=dracula&hide="/>
  
-  ### 👩🏻‍💻 Song KyungHee 👩🏻‍💻
+  ### 👩🏻 💻 Song KyungHee 👩🏻 💻
 <!--  [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=song1680)](https://solved.ac/profile/song1680) -->
   <a href="https://solved.ac/profile/song1680"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=song1680"/></a>
@@ -11,16 +10,13 @@
  <br>
  
 </div>
-  
- <br>
- <br>
- <br>
- <br>
- 
- 
-<a href="https://suave-lilac-075.notion.site/b1ac3609f8a946c3a1939b5d46211e44?v=cc0f75ec13e54868a33bb57336fb9ee8"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=songkyunghee&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/></a>
- 
 <div align="left">
+   <img src="https://github-readme-stats.vercel.app/api?username=songkyunghee&show_icons=true&theme=dracula&hide="/>
+</div>
+ <br>
+ 
+ <div align="left" float="left">
+<a href="https://suave-lilac-075.notion.site/b1ac3609f8a946c3a1939b5d46211e44?v=cc0f75ec13e54868a33bb57336fb9ee8"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=songkyunghee&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/></a>
  
 ### Once I've used...✏️
 
@@ -41,3 +37,4 @@
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+</div>
