@@ -9,13 +9,13 @@
  ---
  
 
-  <div align="center">
+  <div align="left">
 👋 Hi there! I'm mobile app developer using Android.🚀  
   </div>
-  <div align="center">
+  <div align="left">
  Sometimes I develop cross-platforms like Flutter, but prefer native. 💖
   </div>
-  <div align="center">
+  <div align="left">
  Server development is also possible using Spring. I'll do my best. 😃
   </div>
 
