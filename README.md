@@ -8,15 +8,23 @@
   <a href="https://solved.ac/profile/song1680"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=song1680"/></a>
  ---
  
- <br>
- 
+
+  <div align="center">
+👋 Hi there! I'm mobile app developer using Android.🚀  
+  </div>
+  <div align="center">
+ Sometimes I develop cross-platforms like Flutter, but prefer native. 💖
+  </div>
+  <div align="center">
+ Server development is also possible using Spring. I'll do my best. 😃
+  </div>
+
 </div>
   
  <br>
  <br>
  <br>
- <br>
- <br>
+ 
  
  
 <a href="https://suave-lilac-075.notion.site/b1ac3609f8a946c3a1939b5d46211e44?v=cc0f75ec13e54868a33bb57336fb9ee8"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=songkyunghee&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/></a>
