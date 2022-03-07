@@ -14,7 +14,10 @@
  Sometimes I develop cross-platforms like Flutter, but prefer native. 💖
   </div>
   <div align="left">
- Server development is also possible using Spring. I'll do my best. 😃
+ Server development is also possible using Spring.
+  </div>    
+  <div align="left">
+  I'll do my best. 😃
   </div>
 
 </div>
