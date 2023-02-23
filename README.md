@@ -3,9 +3,6 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=songkyunghee&show_icons=true&theme=dracula&hide="/>
  
   ### 👩🏻 💻 Song KyungHee 👩🏻 💻
-<!--  [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=song1680)](https://solved.ac/profile/song1680) -->
-  <a href="https://solved.ac/profile/song1680"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=song1680"/></a>
  ---
  
 
